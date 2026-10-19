@@ -1,0 +1,13 @@
+{
+  "name": "prompt-cache-tracker",
+  "description": "Tracks how warm your prompt cache is and renews it automatically if you want.",
+  "owner": {
+    "name": "hayk_mkrtchyan"
+  },
+  "plugins": [
+    {
+      "name": "prompt-cache-tracker",
+      "source": "./"
+    }
+  ]
+}
