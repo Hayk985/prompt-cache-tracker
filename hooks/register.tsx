@@ -98,7 +98,7 @@ let anchorAt: number | null = null
 let ttlMode: TtlMode = 'auto'
 // What the transcript says the last cache write used; null until it says.
 let writtenTier: Ttl | null = null
-let keepWarm = true
+let keepWarm = false
 let mainBusy = false
 // A person's prompt has gone in and its turn hasn't started.
 let isPromptPending = false

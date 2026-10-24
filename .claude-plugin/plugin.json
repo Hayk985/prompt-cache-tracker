@@ -1,8 +1,21 @@
 {
   "name": "prompt-cache-tracker",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Tracks how warm your prompt cache is and renews it automatically if you want.",
   "author": {
     "name": "Hayk Mkrtchyan"
-  }
+  },
+  "homepage": "https://github.com/Hayk985/prompt-cache-tracker",
+  "repository": "https://github.com/Hayk985/prompt-cache-tracker",
+  "license": "MIT",
+  "keywords": [
+    "prompt-cache",
+    "prompt-caching",
+    "cache",
+    "cache-ttl",
+    "cost-saving",
+    "claude-code",
+    "mod",
+    "tokens"
+  ]
 }
